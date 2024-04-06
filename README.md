@@ -1,1 +1,1 @@
-API CRUD simples em Django utilizando o Django Rest.
+API CRUD simples em Django com autenticação JWT utilizando o Django Rest.
